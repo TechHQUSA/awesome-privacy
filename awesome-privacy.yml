@@ -3212,18 +3212,6 @@ categories:
           Local AI rewriting via Ollama. No account required. Supports 7
           languages. Import from TextExpander, Espanso, PhraseExpress and more.
 
-      - name: Espanso
-        url: https://espanso.org
-        github: espanso/espanso
-        followWith: Windows, Mac, Linux
-        openSource: true
-        icon: https://espanso.org/img/logo.png
-        description: >
-          Free, open-source, cross-platform text expander written in Rust.
-          Works system-wide across all desktop apps via CLI. Configured through
-          YAML files. Supports regex triggers, shell commands, and community
-          packages. No encryption or cloud sync built in.
-
 
     ######################
     ###### Calendar ######
